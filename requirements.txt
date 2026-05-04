@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+pydantic
+email-validator
+pymysql
+flask-migrate
